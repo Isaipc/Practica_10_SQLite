@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica_10_SQLite</string>
+    <string name="code">Código</string>
+    <string name="price">Precio</string>
+    <string name="description">Descripción</string>
+    <string name="add">Alta</string>
+    <string name="code_search">Búsqueda por código</string>
+    <string name="description_search">Búsqueda por descripción</string>
+    <string name="remove">Baja</string>
+    <string name="edit">Modificación</string>
+</resources>
